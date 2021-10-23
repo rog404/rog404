@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @rog404 or Rogerio Bordignon
 - 👀 I’m interested in A.I.
-- 🌱 I’m currently learning ruby & python
 - 💞️ I’m looking to collaborate on any think I can
 <!--- - 📫 How to reach me on linked_in --->
 
